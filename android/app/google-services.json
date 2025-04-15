@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "668022130879",
+    "project_id": "cipherschool-assignment-93024",
+    "storage_bucket": "cipherschool-assignment-93024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668022130879:android:f8b4520b2b31e0f1391e0a",
+        "android_client_info": {
+          "package_name": "com.example.cipherschools_flutter_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668022130879-qnuj4h3or0cn142qklbjeccc3ukou454.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cipherschools_flutter_assignment",
+            "certificate_hash": "55204fec0b7dc8931ce00d170c211994e93cbf0a"
+          }
+        },
+        {
+          "client_id": "668022130879-deuj1fp9iu19ct94uki0lkkgks6mdk9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxZpQ0EsqNDn1wwPiTetT-XlvkIlFEuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668022130879-deuj1fp9iu19ct94uki0lkkgks6mdk9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668022130879-jah5761hseil8eeo106dvqijth4ujo79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cipherschoolsFlutterAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
